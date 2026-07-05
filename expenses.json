@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Pizza",
+        "category": "food",
+        "amount": 250.0
+    },
+    {
+        "name": "bus",
+        "category": "travel",
+        "amount": 80.0
+    },
+    {
+        "name": "book",
+        "category": "education",
+        "amount": 500.0
+    },
+    {
+        "name": "6",
+        "category": "5000",
+        "amount": 5000.0
+    }
+]
