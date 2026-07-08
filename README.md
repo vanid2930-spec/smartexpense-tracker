@@ -212,7 +212,7 @@ Through this project, I learned:
 
 
 # GitHub: https://github.com/Vani-0703;
- # deployed : https://smartexpense-tracker-app.vercel.app/
+ # deployed : https://smartexpense-tracker-app.vercel.app
 
 ---
 
