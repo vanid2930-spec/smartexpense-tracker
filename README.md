@@ -177,22 +177,7 @@ Using SmartExpense Tracker provides several advantages:
 - Organized financial records
 - Simple and intuitive interface
 
----
 
-# 🎨 User Interface
-
-The project follows a clean and modern UI design with:
-
-- Minimal layout
-- Easy navigation
-- Responsive design
-- Attractive colors
-- Simple forms
-- Interactive buttons
-
-The interface is designed to provide a smooth user experience for beginners as well as regular users.
-
----
 
 # 🔒 Future Enhancements
 
@@ -213,21 +198,6 @@ Future versions of the project may include:
 - Multi-user Support
 - Backup & Restore Data
 
----
-
-# 📸 Project Preview
-
-(Add your project screenshot here)
-
-Example:
-
-```
-
-
-```
-
----
-
 # 🎓 Learning Outcomes
 
 Through this project, I learned:
@@ -240,15 +210,9 @@ Through this project, I learned:
 - Git and GitHub version control
 - Package management using npm
 
----
-
-# 👩‍💻 Author
-
-**Vani D**
-
-B.Tech – Artificial Intelligence & Data Science
 
 GitHub: https://github.com/Vani-0703
+https://smartexpense-tracker-app.vercel.app/
 
 ---
 
